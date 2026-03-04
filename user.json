@@ -1,5 +1,19 @@
 {
-  "tokens": [
-    "8735680300:AAFwRRzWmQBnFuWVBLWWArJSP-38XYdPuTg"
+  "users": [
+    {
+      "id": "6500759817",
+      "username": "nted",
+      "password": "ted"
+    },
+    {
+      "id": "8529380482",
+      "username": "ted",
+      "password": "nted"
+    },
+    {
+      "id": "8471700985",
+      "username": "rosek",
+      "password": "rose"
+    }
   ]
 }
